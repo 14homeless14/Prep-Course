@@ -1,0 +1,14 @@
+ * Variables
+ es un espacio que se donde se puede guardar informacion
+ imagina una usb(pendrive) donde guardas fotos o cualquier cosa que quieres guardar 
+ pero en el caso de un Variables solo puede ser una cosa a la vez.
+ * Strings
+ es un tipo de informacion de la cual puede ser una variable en el cual solo se pueden guardar letras 
+ si lo ponemos con los terminos de un usb seria un usb de donde guardamos libros, o archivos de texto.
+ * Funciones (argumentos, `return`)
+ una funcion es una orden que se hace en estos casos podemos decir que es como un alerta en cada ocasion
+ que es aprarece el nombre de la funcion.Los argumentos son los datos que se evaluan en el momento de en el que aparece el nombre de la funcion ejemplo los = igual les > o menores que se evaluan y ejecuta su proceso. para finalmente entrar al return que generalemente tiene una variable junta en el momento que aparece el return nos termina la funcion en el momento que aparace y nos muestra lo que haya en la variable que se debe poner juento al return
+ * Declaraciones `if`
+ es una evaluadora se escribe if(){} dentro del parentesis (x<10) se hace una pregunta tipo x es menor que 10 si es verdadero se realiza una accion que vaya dentro de las llaves {}
+ * Valores booleanos (`true`, `false`)
+ son valores de si o no facilmente lo entendomos con la pregunta 10 es menor que 1 esto es claramente falso(false en ingles), mentira, no lo es.
