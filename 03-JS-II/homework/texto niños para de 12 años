@@ -1,0 +1,6 @@
+* `for`
+    es una orden de repetir hasta que se haga un numero de veces nesesarias se escribe 
+    for(i=0;i=10;i++) {aqui lo que quieres que haga}
+    en el parentesis se tiene que ponen en cual va a iniciar a contar hastas donde y de cuanto en cuanto va a contar
+    en ese orden
+* `&&`, `||`, `!`

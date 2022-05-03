@@ -19,6 +19,7 @@ el ejemplo de la person que se llama suma es la respuesta que te da cuando termi
  * Declaraciones `if`
  es una evaluadora se escribe if(){} dentro del parentesis (x<10) se hace una pregunta tipo x es menor que 10 
  si es verdadero se realiza una accion que vaya dentro de las llaves {}
- 
+
  * Valores booleanos (`true`, `false`)
- son valores de si o no facilmente lo entendomos con la pregunta 10 es menor que 1 esto es claramente falso(false en ingles), mentira, no lo es.
+ son valores de si o no facilmente lo entendomos con la pregunta 10 es menor que 1 esto es claramente falso
+ (false en ingles), mentira, no lo es.
